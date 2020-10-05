@@ -1,4 +1,9 @@
-1.find
-2.ps
-3.kill
-4.diff
+mv
+chmod
+pwd
+ping
+ls -l
+find
+ps
+kill
+diff
